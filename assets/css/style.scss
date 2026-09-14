@@ -1,0 +1,61 @@
+---
+---
+
+html,
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body {
+  color-scheme: dark;
+}
+
+a {
+  color: #8ab4f8;
+}
+
+a:visited {
+  color: #b39ddb;
+}
+
+a:hover {
+  color: #a8c7fa;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #f5f5f5;
+}
+
+hr {
+  border-color: #444;
+}
+
+blockquote {
+  color: #bdbdbd;
+  border-left-color: #555;
+}
+
+code,
+pre {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+table {
+  color: #e0e0e0;
+}
+
+th,
+td {
+  border-color: #444;
+}
+
+th {
+  background-color: #1e1e1e;
+}
