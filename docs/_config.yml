@@ -1,5 +1,5 @@
 markdown: GFM
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
