@@ -340,9 +340,9 @@
 * Shujin Library > the Gallant Rogue (¥0)
 * Museum Palace > Reach treasure
 * Need at least (+¥75000)
-* (Optional) Gain additional +¥50000 for buying SP Adhesive 3 later
 * Need enough materials for 5 crafting sessions
 * Obtain Personas > Temperance, Councillor
+* (Optional) Gain additional +¥50000 for buying SP Adhesive 3 later
 ##### Evening
 * Your Room > Crafting (Proficiency +3 ♪♪) (Proficiency Lv. 3)
 ---
