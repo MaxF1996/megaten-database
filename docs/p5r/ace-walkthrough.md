@@ -340,6 +340,7 @@
 * Shujin Library > the Gallant Rogue (¥0)
 * Museum Palace > Reach treasure
 * Need at least (+¥75000)
+* (Optional) Gain additional +¥50000 for buying SP Adhesive 3 later
 * Need enough materials for 5 crafting sessions
 * Obtain Personas > Temperance, Councillor
 ##### Evening
@@ -521,6 +522,7 @@
 ##### Class
 * Books > The Art of Charm 2/2 (Charm +5 ♪♪♪)
 ##### Daytime
+* (Optional) Buy SP Adhesive 3 from Takemi (-¥50000)
 * Councillor Rank 4 (59/42 to rank up) (SP +5)
     1. Any
     1. Choice 1. I know, right? +15 ♪♪♪
@@ -1094,6 +1096,7 @@
 ##### Daytime
 * Pyramid Palace > Reach treasure
 * Obtain Personas > Hermit, Fortune, Hanged, Devil, Star
+* (Optional) Obtain Aluminium Sheet x20 (for Perma-Pick crafting)
 ##### Evening
 * Call Kawakami > Massage (¥0)
 * Luck Reading > Kindness (¥5000)
@@ -1358,7 +1361,7 @@
 ---
 #### 8/15 Mon
 ##### Daytime
-* Priestess Invite Jinbocho - Optional
+* (Optional) Priestess Invite Jinbocho
     1. Pyramid Palace completion required
     1. Star Rank 1 required
     1. Choice 1. Let's get cracking. +9 ♪♪
@@ -1541,7 +1544,7 @@
 ---
 #### 9/02 Fri
 ##### Daytime
-* Strength Hangout Beach - Optional (Growth 2 Skill Card unlocked)
+* (Optional) Strength Hangout Beach (Growth 2 Skill Card unlocked)
     1. 9/02-9/29 required
     1. Daytime Availability required
 ##### Evening
@@ -1704,7 +1707,7 @@
 ---
 #### 9/22 Thu
 ##### Daytime
-* Star Invite Akihabara - Optional
+* (Optional) Star Invite Akihabara
     1. Emperor Rank 1 required
     1. Fortune Rank 1 required
     1. Choice 1. Take your time. +15 ♪♪♪
@@ -1725,6 +1728,7 @@
 * Chihaya > Celestial Reading (¥20000)
 * Spaceport Palace > Reach treasure
 * Obtain Personas > Empress, Tower
+* (Optional) Obtain Liquid Mercury x10 (for Perma-Pick crafting)
 ##### Evening
 * Call Kawakami > Massage (¥0)
 * Darts Club > Darts with any two remaining teammates (Proficiency +3 ♪♪)
@@ -1745,7 +1749,7 @@
 * Spaceport Palace > Take treasure
 ##### Evening
 * Call Kawakami > Massage (¥0)
-* Priestess Hangout Jazz Club (Concentrate unlocked)
+* Empress or Priestess Hangout Jazz Club (Concentrate unlocked)
 * Magician Rank 9 - Auto
     1. Spaceport Palace completion required
 ---
@@ -1861,7 +1865,7 @@
 * Priestess Rank 10
 ##### Evening
 * Sakaya Trader > Calling Postcard for Strawberry Daifuku x2
-* Hermit Invite Movies - Optional (Knowledge +7 ♪♪♪)
+* (Optional) Hermit Invite Movies (Knowledge +7 ♪♪♪)
     1. Who's Muscling in Yongen-Jaya? Request completion required
     1. Choice 2. I think so... +15 ♪♪♪
 ---
@@ -1981,22 +1985,22 @@
 ---
 #### 10/13 Thu
 ##### Evening
-* Free Time
+* (Optional) Craft Perma-Pick
 ---
 #### 10/14 Fri
 ##### Daytime (Rain)
 * The Killer Who Cleans Up Trash Request unlocked
-* Priestess Invite Study Daytime - Optional (Knowledge +5 ♪♪♪)
+* (Optional) Priestess Invite Study Daytime (Knowledge +5 ♪♪♪)
     1. Choice 1. Good, I think. +9 ♪♪
 ##### Evening
 * Hierophant Rank 10
 ---
 #### 10/15 Sat
 ##### Daytime
-* Emperor Invite Study Daytime - Optional (Knowledge +5 ♪♪♪)
+* (Optional) Emperor Invite Study Daytime (Knowledge +5 ♪♪♪)
     1. Choice 1. Absolutely. +7 ♪♪
 ##### Evening
-* Lovers Invite Study Evening - Optional (Knowledge +5 ♪♪♪)
+* (Optional) Lovers Invite Study Evening (Knowledge +5 ♪♪♪)
     1. Choice 1. I knew. +9 ♪♪
 ---
 #### 10/16 Sun
@@ -2010,7 +2014,7 @@
 ##### Evening
 * Akihabara Gacha > Keep trying for Gear Girimehkala x2
 * Sakaya Trader > Gear Girimehkala for Hot-Blooded Sword
-* Chariot Invite Study Evening - Optional (Knowledge +5 ♪♪♪)
+* (Optional) Chariot Invite Study Evening (Knowledge +5 ♪♪♪)
     1. Choice 1. I believe you. +9 ♪♪
 ---
 #### 10/17 Mon
@@ -2050,7 +2054,7 @@
 * Hallway > Exam Results (Hierophant exam reward unlocked) (School-related Confidant Bonus x1.5 unlocked) (Charm +5 ♪♪♪)
 ##### Evening
 * Leblanc > Talk to Sojiro for exam reward
-* Strength Hangout Art Museum - Optional (Regenerate 3 Skill Card unlocked)
+* (Optional) Strength Hangout Art Museum (Regenerate 3 Skill Card unlocked)
     1. 10/02-11/03 required
 ---
 #### 10/25 Tue
@@ -2141,7 +2145,7 @@
 ---
 #### 11/03 Thu
 ##### Daytime
-* Moon Invite Suidobashi - Optional
+* (Optional) Moon Invite Suidobashi
     1. Tower Rank 1 required
     1. Any
     1. Any
@@ -2320,7 +2324,7 @@
     1. Phone 3. A key item. +7 ♪♪
 ##### Evening
 * Sakaya Trader > Moon Dango for Kintaro Axe
-* Empress Invite Movies - Optional (Guts +7 ♪♪♪)
+* (Optional) Empress Invite Movies (Guts +7 ♪♪♪)
     1. Choice 2. I like them a lot. +22 ♪♪♪
 ---
 #### 11/14 Mon
@@ -2361,7 +2365,7 @@
     1. Any
     1. Choice 1. Kind of sad... +15 ♪♪♪
 ##### Evening
-* Justice Invite Jazz Club - Optional
+* (Optional) Justice Invite Jazz Club
 ---
 #### 11/17 Thu
 ##### Train
@@ -2552,7 +2556,7 @@
 * Justice Rank 10 - Auto
 ##### Evening (Rain)
 * Call Kawakami > Massage (¥0)
-* Temperance Hangout Ueno Romantic
+* Temperance Hangout Ueno
     1. Temperance Rank 10 required
     1. Choice 1. I'm looking forward to this. +33 ♪♪♪
 * Justice Rank 10.5 - Auto
@@ -2613,7 +2617,7 @@
 * Emperor Hangout Ikebukuro (Star Stickers Decoration unlocked)
     1. Choice 2. I'm glad you're better now. +15 ♪♪♪
 ##### Evening
-* Temperance Hangout Odaiba Romantic (Night Pennant Decoration unlocked)
+* (Optional) Temperance Hangout Odaiba Romantic (Night Pennant Decoration unlocked)
     1. Temperance Rank 10 required
     1. Choice 1. Not as much as I love you. +33 ♪♪♪
 ---
@@ -2635,7 +2639,7 @@
 ##### Evening
 * Shibuya Underground Mall > Angel Tart
 * Sakaya Trader > Angel Tart for Feverant Bat
-* Magician Hangout Jazz Club (Debilitate unlocked)
+* Priestess Hangout Jazz Club (Debilitate unlocked)
 ---
 #### 12/12 Mon
 ##### Daytime
@@ -2651,7 +2655,7 @@
 * Chariot Hangout Ogikubo (Ramen Bowl Decoration unlocked)
     1. Choice 1. I'm in love. +33 ♪♪♪
 ##### Evening
-* Free Time
+* Batting Cages Practice (Batting Science in Shinjuku Bookstore unlocked)
 ---
 #### 12/14 Wed
 ##### Daytime
@@ -2902,7 +2906,7 @@
 ##### Evening
 * Big Bang Burger > Supernova Burger
 * Sakaya Trader > Supernova Burger for Old Man's Elixir
-* Chariot Hangout Jazz Club (Arms Master unlocked)
+* Emperor or Chariot Hangout Jazz Club (Arms Master unlocked)
 ---
 #### 1/23 Mon
 ##### Daytime
@@ -2927,7 +2931,7 @@
 ##### Daytime
 * Chihaya > Money Reading (¥5000)
 * Chihaya > Celestial Reading (¥20000)
-* Mementos Palace > Reach barrier
+* Mementos Palace > Reach the last floor
 ##### Evening
 * Call Kawakami > Massage (¥0)
 * Free Time
@@ -2967,7 +2971,7 @@
 ##### Daytime
 * Free Time
 ##### Evening
-* Lovers Hangout Jazz Club (Spell Master unlocked)
+* Lovers or Priestess Hangout Jazz Club (Spell Master unlocked)
 ---
 #### 1/30 Mon
 ##### Daytime
