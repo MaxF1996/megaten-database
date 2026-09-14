@@ -680,7 +680,7 @@
 * Class > Crafting (Proficiency +2 ♪) (Proficiency Lv. 4)
 ##### Evening (Rain)
 * Crossword Question: Wardrobe (Knowledge +2 ♪)
-* Darts Club > Billiards Lv. 2 (Party +7) (Random +3 ♪♪) (Technical Lv. 2 unlocked)
+* Darts Club > Billiards Lv. 2 (Party +7) (Random +3 ♪♪) (Technical Lv. 2 unlocked, base technical damage multiplier has been increased by 0.1)
 ---
 #### 6/17 Fri
 ##### Evening (Rain)
@@ -922,7 +922,7 @@
 * Shibuya Bookstore > Ghost Encounters (¥700)
 * Shibuya DVD Shop > Not So Hot Betsy (¥0)
 * Shibuya Sports Shop > Jump Cue (¥48000)
-* Darts Club > Billiards Lv. 3 (Party +7) (Random +3 ♪♪) (Technical Lv. 3 unlocked)
+* Darts Club > Billiards Lv. 3 (Party +7) (Random +3 ♪♪) (Technical Lv. 3 unlocked, base technical damage multiplier has been increased by 0.2, chance of knocking down has been increased to 67%)
 ##### Evening (Rain)
 * Shinjuku Flower Shop > Mega Fertilizer x5 (¥15000)
 * Temperance Rank 9 Romantic (44/0 to rank up) (¥5000)
@@ -1425,7 +1425,7 @@
 ---
 #### 8/19 Fri
 ##### Daytime
-* Darts Club > Billiards Lv. 4 (Party +7) (Random +3 ♪♪) (Technical Lv. Max unlocked)
+* Darts Club > Billiards Lv. 4 (Party +7) (Random +3 ♪♪) (Technical Lv. Max unlocked, base technical damage multiplier has been increased by 0.3, technical attack always knocks down)
 ##### Evening (Rain)
 * Strength Hangout Church (Samarecarm Skill Card unlocked)
     1. 6/21-12/22 required
