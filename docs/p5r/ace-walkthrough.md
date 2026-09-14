@@ -522,7 +522,7 @@
 ##### Class
 * Books > The Art of Charm 2/2 (Charm +5 ♪♪♪)
 ##### Daytime
-* (Optional) Buy SP Adhesive 3 from Takemi (-¥50000)
+* (Optional) Buy SP Adhesive 3 from Takemi (¥50000)
 * Councillor Rank 4 (59/42 to rank up) (SP +5)
     1. Any
     1. Choice 1. I know, right? +15 ♪♪♪
