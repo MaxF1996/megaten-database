@@ -1,61 +1,54 @@
 ---
 ---
 
-html,
+@import "{{ site.theme }}";
+
 body {
   background-color: #121212;
   color: #e0e0e0;
 }
 
-body {
-  color-scheme: dark;
+.markdown-body {
+  color: #e0e0e0;
 }
 
-a {
-  color: #8ab4f8;
-}
-
-a:visited {
-  color: #b39ddb;
-}
-
-a:hover {
-  color: #a8c7fa;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
   color: #f5f5f5;
 }
 
-hr {
+.markdown-body a {
+  color: #8ab4f8;
+}
+
+.markdown-body a:visited {
+  color: #b39ddb;
+}
+
+.markdown-body table {
+  background-color: #121212;
+}
+
+.markdown-body th,
+.markdown-body td {
   border-color: #444;
 }
 
-blockquote {
+.markdown-body th {
+  background-color: #1e1e1e;
+}
+
+.markdown-body code,
+.markdown-body pre {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+.markdown-body blockquote {
   color: #bdbdbd;
-  border-left-color: #555;
-}
-
-code,
-pre {
-  background-color: #1e1e1e;
-  color: #e0e0e0;
-}
-
-table {
-  color: #e0e0e0;
-}
-
-th,
-td {
-  border-color: #444;
-}
-
-th {
-  background-color: #1e1e1e;
+  border-left-color: #444;
 }
