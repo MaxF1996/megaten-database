@@ -744,7 +744,7 @@
 * Class Question: A pope. (Knowledge +2 ♪)
 ##### Daytime (Rain)
 * Bank Palace > Reach treasure
-* Need at least (+¥150000)
+* Need at least (+¥150000) (Continuously ask shadows for money during the hold-ups)
 * Obtain Personas > Priestess, Emperor, Justice, Faith
 ##### Evening
 * TV Quiz Question: Ordering food without money. (Knowledge +2 ♪)
