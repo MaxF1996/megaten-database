@@ -16,7 +16,7 @@
 * Fear: May ignore commands or run away from battle
 * Brainwash: May heal or support the enemy, or attack ally
 * Hunger: Reduces attack
-* Forget: Unable to use skills, recovers after being hit **(Royal)**
+* Forget: High chance of skipping turn, recovers after being hit **(Royal)**
 * Confuse: May throw away money or items, use an item, or do nothing, lasts for 1 turn, recovers after being hit **(Royal)**
 * Dizzy: Accuracy greatly reduced, recovers after being hit **(Royal)**
 * Despair: Unable to take action, dies after 3 turns, Reaper cannot succumb **(Royal)**
