@@ -12,7 +12,7 @@
 * Freeze: Unable to take action, always can be attacked with Phys or Gun, recovers after being hit
 * Shock: Unable to take action, melee attacks against a shocked enemy may transfer Shock
 * Sleep: Unable to take action, HP and SP restores gradually, recovers after being hit
-* Rage: Defence and accuracy reduced, attack buffed, will automatically use melee attacks
+* Rage: Defense and accuracy reduced, attack buffed, will automatically use melee attacks
 * Fear: May ignore commands or run away from battle
 * Brainwash: May heal or support the enemy, or attack ally
 * Hunger: Reduces attack
