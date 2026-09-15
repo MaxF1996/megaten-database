@@ -289,7 +289,7 @@
 
 ##### Fusion Alarm Skill Upgrades
 * Lunge > Kill Rush > Assault Dive > Gattling Blows (30) > Megaton Raid (40) > God's Hand (50)
-* Cleave > Power Slash > Vajra Blast > Vicious Strike > Heat Wave (40) > Vorpal Blade (55) > Sword Dance (60) > Brave Blade (65) > Gigantomachia (65)
+* Cleave > Power Slash > Vajra Blast > Vicious Strike > Heat Wave (40) > Vorpal Blade (55) > Sword Dance (60) > Brave Blade (65) <> Gigantomachia (65)
 * Giant Slice > Rising Slash > Deadly Fury (45)
 * Rampage > Swift Strike > Deathbound (40) > Agneyastra (65)
 * Tempest Slash > Myriad Slashes (40)
@@ -302,7 +302,7 @@
 * Hysterical Slap > Oni Kagura
 * Negative Pile > Bad Beat
 * Brain Shake > Brain Buster (40)
-* Snap > Double Shot > Triple Down (30) > One-shot Kill (50) > Riot Gun (65)
+* Snap > Double Shot > Triple Down (30) > One-shot Kill (50) <> Riot Gun (65)
 * Agi > Maragi > Agilao > Maragion > Agidyne > Maragidyne > Inferno (55) > Blazing Hell (65)
 * Bufu > Mabufu > Bufula > Mabufula > Bufudyne > Mabufudyne > Diamond Dust (55) > Ice Age (65)
 * Zio > Mazio > Zionga > Mazionga > Ziodyne > Maziodyne > Thunder Reign (55) > Wild Thunder (65)
