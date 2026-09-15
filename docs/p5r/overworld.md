@@ -372,6 +372,7 @@
         * Fear: Ice
         * Rage: Fire
         * Brainwash: Bless
+        * Despair: Curse
 
 ### Battle Boosts
 #### Leblanc
@@ -496,10 +497,10 @@
 * Location: Penguin Club
 * Timing: Anytime
 * Results: Party technical rank increases
-    * Rank 1: Technical damage light boost
-    * Rank 2: Technical damage medium boost
-    * Rank 3: Technical damage heavy boost and medium chance of causing down
-    * Rank 4: Technical damage severe boost and guaranteed chance of causing down
+    * Rank 1: Technical damage remains the same
+    * Rank 2: Technical damage light boost
+    * Rank 3: Technical damage medium boost and high chance of causing down
+    * Rank 4: Technical damage heavy boost and guaranteed chance of causing down
 * Activity Progression:
     * Rank 1: Play billiards once and buy and read "Billiards Techniques" from the sports shop
     * Rank 2: **(Proficiency Lv. 2)** and perform Back Hand
