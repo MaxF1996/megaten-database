@@ -623,7 +623,7 @@
 * Wave 2: Norn, Mithras, Legion (Disaster Shadow)
 * Wave 3: Regent, Queen's Necklace, Stone of Scone, Koh-i-Noor, Orlov
 * Score Modifiers: Clear in under 28 turns (+50,000), Attack with Phys skills (x2), Defeat enemy with Yusuke (x6), Attack after Baton Pass (x2)
-* Prizes: Gold Chain (150,000), Diarahan Skill Card (230,000), Amrita Drop Ring (300,000)
+* Prizes: Gold Chain (150,000), Diarama Skill Card (230,000), Amrita Drop Ring (300,000)
 
 #### Technician 30 (Challenge Battle Pack DLC)
 * Wave 1: Arahabaki, Kin-Ki, Lilim
