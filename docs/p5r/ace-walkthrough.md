@@ -926,7 +926,7 @@
 * Shibuya Bookstore > Ghost Encounters (¥700)
 * Shibuya DVD Shop > Not So Hot Betsy (¥0)
 * Shibuya Sports Shop > Jump Cue (¥48000)
-* Darts Club > Billiards Lv. 3 (Party +7) (Random +3 ♪♪) (Technical Lv. 3 unlocked, +0.2 for base technical damage multiplier, 67% chance of knocking down)
+* Darts Club > Billiards Lv. 3 (Party +7) (Random +3 ♪♪) (Technical Lv. 3 unlocked, +0.2 for base technical damage multiplier, 70% chance of knocking down)
 ##### Evening (Rain)
 * Shinjuku Flower Shop > Mega Fertilizer x5 (¥15000)
 * Temperance Rank 9 Romantic (44/0 to rank up) (¥5000)
