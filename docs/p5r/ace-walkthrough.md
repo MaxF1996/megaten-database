@@ -1473,12 +1473,12 @@
     1. 8/22 required
 ##### Evening
 * Shibuya Square > Check Summer Lotto S (+¥30000)
+* Ginza Line Shop > Melon Pan
+* Sakaya Trader > Melon Pan for Old Man's First
 * Star Rank 5 (21/14 to rank up) (Knowledge +2 ♪)
     1. Choice 2. She's scary. +7 ♪♪
     1. Choice 2. You should stop then. +7 ♪♪
     1. Phone 2. You've got a lot to deal with... +7 ♪♪
-* Ginza Line Shop > Melon Pan
-* Sakaya Trader > Melon Pan for Old Man's First
 * Fool Rank 7 - Auto
     1. 8/22 required
 ---
