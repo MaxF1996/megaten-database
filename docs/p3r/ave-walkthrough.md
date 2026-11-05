@@ -2,18 +2,18 @@
 #### Goals
 * Obtain all achievements
 * Complete the persona compendium
-* Complete all Elizabeth requests
+* Complete all of Elizabeth's requests
 * Max all teammate combat characteristics
 * Take everyone to the summer film festival
 * Take Koromaru on walks with everyone
-* Invite anyone to the summer festival and on Christmas
+* Invite anyone to the summer festival and to Christmas
 * Test-played on Merciless
 * No reloads required
 
 #### Altering the Schedule
 * Koromaru walks are entirely optional
   * Skipping any of them won't alter progression
-  * Ken's upgraded combat characteristic is delayed to Jan to see all walks
+  * Ken's upgraded combat characteristic is delayed until Jan to see all walks
 * The summer film festival is mostly optional
   * You'll need to make up to (Academics +16) depending on which you skip
 * The first 3 months dedicate 2 Tartarus visits per month instead of 1
@@ -120,9 +120,9 @@
 * Talk to Mitsuru > Tartarus
   * Need at least (Y7500) for social stats
   * Can earn money immediately from chests and Coin shuffle cards
-  * Can earn money the next day after selling drops at Police Station
+  * Can earn money the next day after selling drops at the Police Station
   * Save before leaving Tartarus, sell drops the next day, then reload if not enough
-  * All Tartarus-related achievements may be unlocked at your pace over course of game
+  * All Tartarus-related achievements may be unlocked at your pace over the course of the game
 * Achievement: There's No "I" in "Team"
 * Achievement: The First of Many
 * Achievement: The Thrill of the Hunt
@@ -237,7 +237,7 @@
   * Lukewarm Taiyaki unlocked
 ---
 #### Sat 5/2
-##### After SChool
+##### After School
 * Justice Flag 0.3
   * Choice 1: Hello.
   * Choice 1: Let's hang out.
@@ -245,7 +245,7 @@
 * Strength Rank 2
   * Gekkoukan 2F Hallway > Talk to Yuko
 ##### Evening
-* **Iwatodai Dorms Kitchen > Put Lukewarm Taiyaki in fridge**
+* **Iwatodai Dorms Kitchen > Put Lukewarm Taiyaki in the fridge**
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
 #### Sun 5/3
@@ -385,7 +385,7 @@
   * Requires Charm Lv. 2 and an Odd Morsel
   * Paulownia Mall > Fountain Bench > Talk to Student
   * Choice 1: What are you eating?
-  * Choice 3: Pheremone Coffee.
+  * Choice 3: Pheromone Coffee.
   * Choice 3: Red.
   * Choice 2: Hagakure Bowl.
   * Give him an Odd Morsel.
@@ -492,7 +492,7 @@
 #### Mon 5/25
 ##### Class
 * Exam Results: Top of Class (Charm +4, 2 notes)
-* **1st Social Link bonus: All base points x1.51 going foward**
+* **1st Social Link bonus: All base points x1.51 going forward**
 * **Charm Lv. 4**
 * **Close your eyes (Courage +2, 1 note)**
 * Achievement: Top of the Class
@@ -514,7 +514,7 @@
 ##### After School
 * Chariot Rank 4: 22/15 points to next rank
   * Any
-  * Choice 2: that really sucks. (+22, 3 notes)
+  * Choice 2: That really sucks. (+22, 3 notes)
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 ---
@@ -564,7 +564,7 @@
 ---
 #### Sun 5/31
 ##### Daytime
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * TV Shopping: Health Sandals, Diet Food x2 (Y3980)
 * Strength Date 4.5 (Needs matching persona): 45/15 points to next rank
   * Accept invite on phone
@@ -686,7 +686,7 @@
 ##### Elizabeth Requests
 * Request #18: I'd like to be gifted a bouquet of flowers.
   * Bring 1 Rose Bouquet.
-  * Buy from Port Island Florist if didn't order one from TV Shopping
+  * Buy from Port Island Florist if you didn't order one from TV Shopping
   * Unlocks Request #19: I want Jack Frost dolls.
 * Request #19: I want Jack Frost dolls.
   * Bring Elizabeth not 1 Jack Frost Doll, but 3 of them.
@@ -760,14 +760,14 @@
 * Chariot Rank 8: 7/22 points to next rank
   * Choice 2: ...... (+7, 1 note)
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Devil Flag 0.1
   * Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)
   * Paulownia Mall > Front of Fountain > Pay him
 * Lovers DVDs 1 (Charm +2, 1 note)
   * Talk to Yukari by the TV
 * **Charm Lv. 5**
-* Achievement: Dorms Life
+* Achievement: Dorm Life
 ---
 #### Wed 6/17
 ##### Class
@@ -782,7 +782,7 @@
 ---
 #### Thu 6/18
 ##### After School
-* Buy Lukewarm Taiyaki x11 for rest of fridge events
+* Buy Lukewarm Taiyaki x11 for the rest of the fridge events
 * Justice Rank 3 (Needs matching persona): 22/22 points to next rank
   * Choice 1: They have no shame. (+11, 1 note)
   * Choice 1: I agree. (+11, 1 note)
@@ -890,7 +890,7 @@
 * Fortune Rank 5: 22/15 points to next rank
   * Choice 1: You should tell your dad! (+22, 3 notes)
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Lovers DVDs 3 (Charm +2, 1 note)
 * Achievement: Through Thick and Thin
 
@@ -1009,7 +1009,7 @@
 ##### Class
 * Choice 1: The katana. (Charm +2, 1 note)
 * **Charm Lv. 6**
-* **2nd Social Link bonus: All base points x2.2801 going foward**
+* **2nd Social Link bonus: All base points x2.2801 going forward**
 ##### After School
 * Feed the cat 3
 * Hanged Rank 5: 45/20 points to next rank
@@ -1066,7 +1066,7 @@
 ##### Evening
 * Request #40: I'd like to see a pair of Max Safety Shoes.
   * Purchased on Sun 7/12
-  * Otherwise can buy off NPC at Port Island for double the price
+  * Otherwise, you can buy off an NPC at Port Island for double the price
   * Unlocks Request #41: Bring me the mysterious person's autograph.
 * Request #41: Bring me the mysterious person's autograph.
   * Requires Devil Rank 1
@@ -1096,7 +1096,7 @@
 #### Mon 7/20
 ##### Daytime
 * Marine Day
-* Collect souvenirs on beach for Elizabeth
+* Collect souvenirs on the beach for Elizabeth
   * Seashell
   * Seaweed
   * Driftwood
@@ -1162,7 +1162,7 @@
 ---
 #### Wed 7/29
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Club Escapade > Security Site Note (Y5000)
   * Ambush mechanic unlocked
 ---
@@ -1267,7 +1267,7 @@
   * Requires Topaz x2
 * Request #58: I wish to become a straw millionaire.
   * Trade with delinquent at Port Island Outskirts
-  * Trade with student at Port Island Station
+  * Trade with a student at Port Island Station
   * Trade with child at Iwatodai Strip Mall
   * Report back to Elizabeth
 * Request #79: I'd like to visit Naganaki Shrine.
@@ -1400,13 +1400,13 @@
 #### Wed 8/26
 ##### Daytime
 * Koromaru Movies (Courage +4, 2 notes)
-  * Take Koromaru to movies
+  * Take Koromaru to the movies
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
 #### Thu 8/27
 ##### Daytime
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Junpei Movies (Charm +4, 2 notes)
   * Invite Junpei to movies
 ##### Evening
@@ -1549,7 +1549,7 @@
 * Request #57: I'd like to try Aojiru.
   * Aohige Pharmacy > Ask about Aojiru
   * Mayoido Antiques > Trade for Topaz x2, Turquoise x1
-  * Report back to Aohige Pharamcy
+  * Report back to Aohige Pharmacy
 * Request #66: Bring me a giant, creepy doll.
   * Gekkoukan Lab Hallway > Science Room > Obtain from Ounishi
 * Request #67: Find me a beautiful tile.
@@ -1593,7 +1593,7 @@
 ---
 #### Sun 9/13
 ##### Daytime
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * TV Shopping: Emergency Vest, First Aid Kit M x5 (Y24800)
 * Shinjiro Link 2 (Charm +2)
   * Port Island Outskirts > Talk to Shinjiro
@@ -1705,7 +1705,7 @@
 ##### After School
 * Priestess Rank 10
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Shinjiro Cooking 3
 ---
 #### Sun 9/27
@@ -1760,7 +1760,7 @@
 * Tartarus
   * Rescue 3 missing people
   * Dark Zones unlocked
-  * Encounter one after tutorial to unlock an achievement
+  * Encounter one after the tutorial to unlock an achievement
 * Achievement: The Horror of the Shade
 * Request #59: Retrieve the sixth old document.
   * Tziah I 144 > Chest > Old Document 06
@@ -1867,7 +1867,7 @@
 #### Sat 10/10
 ##### Class
 * Choice 2: Helena Blavatsky (Charm +2, 1 note)
-##### After SSchool
+##### After School
 * Faculty Office > Toriumi Lecture (Academics +2, 1 note)
 * Hierophant Rank 6: 34/20 points to next rank
   * Choice 2: Please don't fight. (+34, 3 notes)
@@ -1994,7 +1994,7 @@
 ---
 #### Sun 10/25
 ##### Daytime
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * TV Shopping: Pumpkin Mask, Halloween Candy x50 (Y24800)
 * Sun Rank 4
 ##### Evening
@@ -2175,7 +2175,7 @@
   * Choice 2: ...... (+51, 3 notes)
   * Choice 2: You're a precious friend.
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Ken Link 3 (Charm +2)
   * Iwatodai Dorms Front Door > Talk to Ken
 ---
@@ -2227,7 +2227,7 @@
 * Achievement: In High Demand
 ##### Evening
 * Club Escapade > Veggie Blog Note (Y500)
-  * Unlocks another seedling at flower shop
+  * Unlocks another seedling at the flower shop
 ---
 #### Mon 11/16
 ##### Class
@@ -2241,12 +2241,12 @@
 ---
 #### Tue 11/17
 ##### Evening
-* Buy souvenirs from gift shop for Ken
+* Buy souvenirs from the gift shop for Ken
   * Namayatsuhashi
   * Pickled Turnip
   * Konpeito
   * Mibu Cracker
-* Buy drinks from vending machine for Drink Maniac
+* Buy drinks from the vending machine for Drink Maniac
   * Durian Soda
   * Jumbo Juice
   * V6
@@ -2373,7 +2373,7 @@
 #### Thu 12/3
 ##### Evening
 * Net Cafe > Veggie Farmer Sim (Y4500)
-  * Inceases amount of vegetables harvested from planters
+  * Increases the amount of vegetables harvested from planters
 ---
 #### Fri 12/4
 ##### Elizabeth Requests
@@ -2443,7 +2443,7 @@
   * **Choice 1: Is it really? (+0, 0 notes)**
   * Choice 3: I'll do something about it. (+34, 3 notes)
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Koromaru Brushing 4
 ---
 #### Fri 12/11
@@ -2544,7 +2544,7 @@
 ---
 #### Wed 12/23
 ##### Daytime
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Emperor's Birthday
 * Star Rank 6: 34/20 points to next rank
   * Any
@@ -2676,9 +2676,9 @@
   * Siegfried (Charge) x Vasuki = Koumokuten (Charge)
   * Zouchouten x Jikokuten x Koumokuten (Charge) x Bishamonten = Masakado (Charge)
 * Request #99: Defeat the Shadow of the Void.
-  * Requires cleaing all Monad Passages first
+  * Requires clearing all Monad Passages first
 * Request #100: Bring me a Bloody Button.
-  * Obtained from defeated the Reaper
+  * Obtained from defeating the Reaper
 * Achievement: Reaper Reaped
 * Fuse Messiah
 * Achievement: Path to Salvation
@@ -2725,7 +2725,7 @@
 ##### After School
 * Aeon Rank 2
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Justice Walk
 ---
 #### Sun 1/10
@@ -2820,7 +2820,7 @@
 * Aeon Rank 10
 * Achievement: A Legacy of Friendships
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Put Lukewarm Taiyaki in the fridge**
 * Soul Fortune
 * Tartarus
   * Rescue 2 missing people
