@@ -528,6 +528,10 @@
 * Club Escapade > Fortune Teller > Rarity Fortune (Y3000)
 * Tartarus
   * Need at least (Y24000) for social stats
+* Persona loadout before leaving
+  * Magician (Jack Frost)
+  * Strength (Valkyrie)
+  * Hermit (Onmoraki)
 ---
 #### Thu 5/28
 ##### Class
